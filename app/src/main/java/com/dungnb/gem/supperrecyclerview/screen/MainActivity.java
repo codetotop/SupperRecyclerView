@@ -1,7 +1,9 @@
-package com.dungnb.gem.supperrecyclerview;
+package com.dungnb.gem.supperrecyclerview.screen;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.dungnb.gem.supperrecyclerview.R;
 
 public class MainActivity extends AppCompatActivity {
 
